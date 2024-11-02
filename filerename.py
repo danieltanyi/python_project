@@ -8,7 +8,7 @@ Can you develop a Python program that takes a directory path and a pattern as in
 
 import os
 
-path = ("C:\Users\dtarh\OneDrive\Desktop\Python-Project\images")
+path = "C:/Users/dtarh/OneDrive/Desktop/Python-Project/images/"
 #path =path.replace("\\","/")
 
 
